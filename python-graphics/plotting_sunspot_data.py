@@ -1,5 +1,5 @@
 
-from pylab import plot, show
+from pylab import plot, show, xlim, ylim
 from numpy import loadtxt
 import sys
 
